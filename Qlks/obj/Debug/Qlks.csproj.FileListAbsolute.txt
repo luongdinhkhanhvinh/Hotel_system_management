@@ -1,0 +1,196 @@
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\bin\Debug\Qlks.exe.config
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\bin\Debug\Qlks.exe
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\bin\Debug\Qlks.pdb
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.capnhat.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.DangNhap.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.phong.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.qlks.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.Properties.Resources.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.suaphong.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.thongtinnv.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.tinhtien.resources
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.csproj.GenerateResource.Cache
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.exe
+C:\Users\Tu Tu\Documents\Visual Studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.pdb
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.csprojResolveAssemblyReference.cache
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.doimatkhau.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.timkh.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.danhsachphong.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.doanhthu.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.HuongDan.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.Thongtin.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.inhoadon.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\RdlCompile.cache
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\RdlCompile.compiled
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.Txphong.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.datphong.resources
+C:\Users\Tu Tu\documents\visual studio 2013\Projects\Qlks\Qlks\obj\Debug\Qlks.dichvu.resources
+C:\Users\lemin\Desktop\Qlks\Qlks\Qlks\bin\Debug\Qlks.exe.config
+C:\Users\lemin\Desktop\Qlks\Qlks\Qlks\bin\Debug\Qlks.exe
+C:\Users\lemin\Desktop\Qlks\Qlks\Qlks\bin\Debug\Qlks.pdb
+C:\Users\lemin\Desktop\Qlks\Qlks\Qlks\obj\Debug\Qlks.csprojResolveAssemblyReference.cache
+C:\Users\lemin\Desktop\Qlks\Qlks\Qlks\obj\Debug\Qlks.capnhat.resources
+C:\Users\lemin\Desktop\Qlks\Qlks\Qlks\obj\Debug\Qlks.DangNhap.resources
+C:\Users\lemin\Desktop\Qlks\Qlks\Qlks\obj\Debug\Qlks.danhsachphong.resources
+C:\Users\lemin\Desktop\Qlks\Qlks\Qlks\obj\Debug\Qlks.datphong.resources
+C:\Users\lemin\Desktop\Qlks\Qlks\Qlks\obj\Debug\Qlks.dichvu.resources
+C:\Users\lemin\Desktop\Qlks\Qlks\Qlks\obj\Debug\Qlks.doanhthu.resources
+C:\Users\lemin\Desktop\Qlks\Qlks\Qlks\obj\Debug\Qlks.doimatkhau.resources
+C:\Users\lemin\Desktop\Qlks\Qlks\Qlks\obj\Debug\Qlks.inhoadon.resources
+C:\Users\lemin\Desktop\Qlks\Qlks\Qlks\obj\Debug\Qlks.Khoidong.resources
+C:\Users\lemin\Desktop\Qlks\Qlks\Qlks\obj\Debug\Qlks.phong.resources
+C:\Users\lemin\Desktop\Qlks\Qlks\Qlks\obj\Debug\Qlks.qlks.resources
+C:\Users\lemin\Desktop\Qlks\Qlks\Qlks\obj\Debug\Qlks.Properties.Resources.resources
+C:\Users\lemin\Desktop\Qlks\Qlks\Qlks\obj\Debug\Qlks.suaphong.resources
+C:\Users\lemin\Desktop\Qlks\Qlks\Qlks\obj\Debug\Qlks.Thongtin.resources
+C:\Users\lemin\Desktop\Qlks\Qlks\Qlks\obj\Debug\Qlks.thongtinnv.resources
+C:\Users\lemin\Desktop\Qlks\Qlks\Qlks\obj\Debug\Qlks.timkh.resources
+C:\Users\lemin\Desktop\Qlks\Qlks\Qlks\obj\Debug\Qlks.tinhtien.resources
+C:\Users\lemin\Desktop\Qlks\Qlks\Qlks\obj\Debug\Qlks.Txphong.resources
+C:\Users\lemin\Desktop\Qlks\Qlks\Qlks\obj\Debug\Qlks.csproj.GenerateResource.Cache
+C:\Users\lemin\Desktop\Qlks\Qlks\Qlks\obj\Debug\RdlCompile.cache
+C:\Users\lemin\Desktop\Qlks\Qlks\Qlks\obj\Debug\RdlCompile.compiled
+C:\Users\lemin\Desktop\Qlks\Qlks\Qlks\obj\Debug\Qlks.exe
+C:\Users\lemin\Desktop\Qlks\Qlks\Qlks\obj\Debug\Qlks.pdb
+E:\Qlks\Qlks\Qlks\bin\Debug\Qlks.exe.config
+E:\Qlks\Qlks\Qlks\obj\Debug\Qlks.exe
+E:\Qlks\Qlks\Qlks\obj\Debug\Qlks.pdb
+E:\Qlks\Qlks\Qlks\bin\Debug\Qlks.exe
+E:\Qlks\Qlks\Qlks\bin\Debug\Qlks.pdb
+E:\Qlks\Qlks\Qlks\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Qlks\Qlks\Qlks\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Qlks\Qlks\Qlks\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Qlks\Qlks\Qlks\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Qlks\Qlks\Qlks\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Qlks\Qlks\Qlks\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\Qlks\Qlks\Qlks\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\Qlks\Qlks\Qlks\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\Qlks\Qlks\Qlks\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\Qlks\Qlks\Qlks\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\Qlks\Qlks\Qlks\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\Qlks\Qlks\Qlks\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\Qlks\Qlks\Qlks\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\Qlks\Qlks\Qlks\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\Qlks\Qlks\Qlks\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\Qlks\Qlks\Qlks\obj\Debug\Qlks.csprojResolveAssemblyReference.cache
+E:\Qlks\Qlks\Qlks\obj\Debug\Qlks.capnhat.resources
+E:\Qlks\Qlks\Qlks\obj\Debug\Qlks.DangNhap.resources
+E:\Qlks\Qlks\Qlks\obj\Debug\Qlks.danhsachphong.resources
+E:\Qlks\Qlks\Qlks\obj\Debug\Qlks.datphong.resources
+E:\Qlks\Qlks\Qlks\obj\Debug\Qlks.dichvu.resources
+E:\Qlks\Qlks\Qlks\obj\Debug\Qlks.doimatkhau.resources
+E:\Qlks\Qlks\Qlks\obj\Debug\Qlks.Khoidong.resources
+E:\Qlks\Qlks\Qlks\obj\Debug\Qlks.phong.resources
+E:\Qlks\Qlks\Qlks\obj\Debug\Qlks.qlks.resources
+E:\Qlks\Qlks\Qlks\obj\Debug\Qlks.Properties.Resources.resources
+E:\Qlks\Qlks\Qlks\obj\Debug\Qlks.suaphong.resources
+E:\Qlks\Qlks\Qlks\obj\Debug\Qlks.Thongtin.resources
+E:\Qlks\Qlks\Qlks\obj\Debug\Qlks.thongtinnv.resources
+E:\Qlks\Qlks\Qlks\obj\Debug\Qlks.timkh.resources
+E:\Qlks\Qlks\Qlks\obj\Debug\Qlks.tinhtien.resources
+E:\Qlks\Qlks\Qlks\obj\Debug\Qlks.Txphong.resources
+E:\Qlks\Qlks\Qlks\obj\Debug\Qlks.csproj.GenerateResource.Cache
+C:\Users\lemin\Desktop\Qlks_2\Qlks\Qlks\Qlks\bin\Debug\Qlks.exe.config
+C:\Users\lemin\Desktop\Qlks_2\Qlks\Qlks\Qlks\bin\Debug\Qlks.exe
+C:\Users\lemin\Desktop\Qlks_2\Qlks\Qlks\Qlks\bin\Debug\Qlks.pdb
+C:\Users\lemin\Desktop\Qlks_2\Qlks\Qlks\Qlks\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\lemin\Desktop\Qlks_2\Qlks\Qlks\Qlks\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\lemin\Desktop\Qlks_2\Qlks\Qlks\Qlks\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\lemin\Desktop\Qlks_2\Qlks\Qlks\Qlks\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\lemin\Desktop\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.capnhat.resources
+C:\Users\lemin\Desktop\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.DangNhap.resources
+C:\Users\lemin\Desktop\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.danhsachphong.resources
+C:\Users\lemin\Desktop\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.datphong.resources
+C:\Users\lemin\Desktop\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.dichvu.resources
+C:\Users\lemin\Desktop\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.doimatkhau.resources
+C:\Users\lemin\Desktop\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.Khoidong.resources
+C:\Users\lemin\Desktop\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.phong.resources
+C:\Users\lemin\Desktop\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.qlks.resources
+C:\Users\lemin\Desktop\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.Properties.Resources.resources
+C:\Users\lemin\Desktop\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.suaphong.resources
+C:\Users\lemin\Desktop\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.Thongtin.resources
+C:\Users\lemin\Desktop\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.thongtinnv.resources
+C:\Users\lemin\Desktop\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.timkh.resources
+C:\Users\lemin\Desktop\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.tinhtien.resources
+C:\Users\lemin\Desktop\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.Txphong.resources
+C:\Users\lemin\Desktop\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.csproj.GenerateResource.Cache
+C:\Users\lemin\Desktop\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.exe
+C:\Users\lemin\Desktop\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.pdb
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\bin\Debug\Qlks.exe.config
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.exe
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.pdb
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\bin\Debug\Qlks.exe
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\bin\Debug\Qlks.pdb
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.csprojResolveAssemblyReference.cache
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.capnhat.resources
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.DangNhap.resources
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.danhsachphong.resources
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.datphong.resources
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.dichvu.resources
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.doimatkhau.resources
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.Khoidong.resources
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.phong.resources
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.qlks.resources
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.Properties.Resources.resources
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.suaphong.resources
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.Thongtin.resources
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.thongtinnv.resources
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.timkh.resources
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.tinhtien.resources
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.Txphong.resources
+C:\Users\khanh\OneDrive\Máy tính\Qlks_2\Qlks\Qlks\Qlks\obj\Debug\Qlks.csproj.GenerateResource.Cache
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\bin\Debug\Qlks.exe.config
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\bin\Debug\Qlks.exe
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\bin\Debug\Qlks.pdb
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\obj\Debug\Qlks.csprojAssemblyReference.cache
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\obj\Debug\Qlks.capnhat.resources
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\obj\Debug\Qlks.DangNhap.resources
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\obj\Debug\Qlks.danhsachphong.resources
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\obj\Debug\Qlks.datphong.resources
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\obj\Debug\Qlks.dichvu.resources
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\obj\Debug\Qlks.doimatkhau.resources
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\obj\Debug\Qlks.Khoidong.resources
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\obj\Debug\Qlks.phong.resources
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\obj\Debug\Qlks.qlks.resources
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\obj\Debug\Qlks.Properties.Resources.resources
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\obj\Debug\Qlks.suaphong.resources
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\obj\Debug\Qlks.Thongtin.resources
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\obj\Debug\Qlks.thongtinnv.resources
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\obj\Debug\Qlks.timkh.resources
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\obj\Debug\Qlks.tinhtien.resources
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\obj\Debug\Qlks.Txphong.resources
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\obj\Debug\Qlks.csproj.GenerateResource.cache
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\obj\Debug\Qlks.csproj.CoreCompileInputs.cache
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\obj\Debug\Qlks.csproj.CopyComplete
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\obj\Debug\Qlks.exe
+D:\LT WindowForm\Đồ Án QLKS\Đồ Án QLKS\Qlks\obj\Debug\Qlks.pdb
